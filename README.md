@@ -6,7 +6,7 @@
 ## Streamlit Cloud :
 Streamlit Cloud : [Bike Sharing Dashboard](https://joydhefbikesharing-fsskr9m8jnbwqgymtrj5pl.streamlit.app/)
 
-![Bike Sharing Dashboard Preview](joydhef_dashboard)
+![Joydhef Dashboard Preview](https://github.com/krisna0703/Joydhef_Bike_Sharing/blob/main/dashboard/joydhef_dashboard.jpg)
 
 ## Setup environment
 - Install Visual Studio Code for Editor
